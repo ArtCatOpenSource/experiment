@@ -15,6 +15,6 @@
     "webpack-dev-server": "^3.10.3"
   },
   "scripts": {
-    "prettier": "./node_modules/.bin/prettier --write '**/*.rb'"
+    "p": "prettier --write ."
   }
 }
